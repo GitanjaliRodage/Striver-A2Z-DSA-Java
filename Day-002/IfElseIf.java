@@ -1,3 +1,4 @@
+// Day 2 - If Else If
 class Solution {
     public void studentGrade(int marks) {
         if (marks >= 90) {
